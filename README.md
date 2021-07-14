@@ -4,7 +4,7 @@
 
 This proyect has the main object to analyze from different perspectives the relationship and behavior between all the variables tha we have in our database to detect some kind of patterns from this variables that affect or not the students performace.
 
-![School Analysis] (https://3k7by215ywuf340yi3alsfso-wpengine.netdna-ssl.com/wp-content/uploads/sites/5/2019/06/FB-People-Climbing-Books-Busines-260968798_1_640_367_c1_c_c.jpg)
+![School Analysis](https://3k7by215ywuf340yi3alsfso-wpengine.netdna-ssl.com/wp-content/uploads/sites/5/2019/06/FB-People-Climbing-Books-Busines-260968798_1_640_367_c1_c_c.jpg)
 
 ## Analysis of the results
 
@@ -18,11 +18,11 @@ We can see that the resulting values change but not in a meaningful way, this is
 
         -Original
 
-        ![Original District Summary] (https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/Original_District_Summary.JPG)
+![Original District Summary](https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/Original_District_Summary.JPG)
 
         -Modified with NaNs DataFrame
 
-        ![Modified District Summary] (https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/Modified_District_Summary.JPG)
+![Modified District Summary](https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/Modified_District_Summary.JPG)
 
 - How is the school summary affected?
 
@@ -30,11 +30,11 @@ In this summary we can see the different only in the Thomas Higth School row, be
 
     - Original
 
-    ![Original School Summary] (https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/Original_School_Summary.JPG)
+ ![Original School Summary](https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/Original_School_Summary.JPG)
 
     - Modified considering the 10th and 12th grade for Thomas Higt School
 
-    ![Modified District Summary] (https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/Modified_School_Summary.JPG)
+![Modified District Summary](https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/Modified_School_Summary.JPG)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
@@ -48,30 +48,30 @@ The diferent between the first analysis and after the changes of ninth graders�
 
      - The average math score for each grade level from each school 
     
-    ![average math per level] (https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/AverageMath_PerGrade.JPG)
+    ![average math per level](https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/AverageMath_PerGrade.JPG)
 
     - The average reading score for each grade level from each school 
 
-    ![average reading per level] (https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/AverageReading_PerGrade.JPG)
+    ![average reading per level](https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/AverageReading_PerGrade.JPG)
 
 
     - Scores by school spending
 
     This scores by school spending were not affected by not considering the ninth grade students from Thomas Higth School since the spending its independence from this specific data that we modified.
 
-    ![speanding per student] (https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/Score_spending%20per%20student.JPG)
+    ![speanding per student](https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/Score_spending%20per%20student.JPG)
 
     - Scores by school size
 
     This scores by school size didn't transform regret the change in the number of students that we made in the total number of students in Thomas Higth School, as we can see the score of Thomas Higth School remains Medium (1000-2000), this because the total number of student on that grade and that school was 461, but despite this we can see the change in the school performace in the average math and reading, the percentaje of passing math and reading and overall passign:
 
-    ![scores school size] (https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/Score_school%20size.JPG)
+    ![scores school size](https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/Score_school%20size.JPG)
 
     - Scores by school type
 
         This scores by school by type they were not affected by not considering the ninth grade students from Thomas Higth School since the school type its independence from this specific data that we modified, but despite this we can see the change in the school performace in the average math and reading, the percentaje of passing math and reading and overall passign:
 
-    ![scores school type] (https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/Score_school%20type.JPG)
+    ![scores school type](https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/Score_school%20type.JPG)
 
 
 
@@ -89,16 +89,16 @@ Some of the changes that we can se in the updated school anlysis is that the per
 
 - Complete School DataFrame with NaNs in 9th grade students in Thomas High School
 
-![NaNs DataFrame] (https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/Complete_DataFrame_NaNs.JPG)
+![NaNs DataFrame](https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/Complete_DataFrame_NaNs.JPG)
 
 
 - The top 5 performing schools, based on the overall passing rate
 
-![Top 5 performing] (https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/top%205%20performing%20schools.JPG)
+![Top 5 performing](https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/top%205%20performing%20schools.JPG)
 
 - The bottom 5 performing schools, based on the overall passing rate
 
-![bottom 5 performing] (https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/bottom%205%20performing%20schools.JPG)
+![bottom 5 performing](https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/bottom%205%20performing%20schools.JPG)
 
 
 
