@@ -71,13 +71,13 @@ The diferent between the first analysis and after the changes of ninth gradersâ€
 
     - Summary per school
 
-    ![scores school type](https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/Score_school%20type.JPG)
+    ![scores school type](https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/Score_school%20size_detail.JPG)
 
     - Scores by school type
 
         This scores by school by type they were not affected by not considering the ninth grade students from Thomas Higth School since the school type its independence from this specific data that we modified, but despite this we can see the change in the school performace in the average math and reading, the percentaje of passing math and reading and overall passign:
 
-    ![scores school type](https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/Score_school%20type.JPGS)
+    ![scores school type](https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/Score_school%20type.JPG)
 
 
 
