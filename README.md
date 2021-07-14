@@ -65,13 +65,19 @@ The diferent between the first analysis and after the changes of ninth gradersâ€
 
     This scores by school size didn't transform regret the change in the number of students that we made in the total number of students in Thomas Higth School, as we can see the score of Thomas Higth School remains Medium (1000-2000), this because the total number of student on that grade and that school was 461, but despite this we can see the change in the school performace in the average math and reading, the percentaje of passing math and reading and overall passign:
 
+    - General view summary
+
     ![scores school size](https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/Score_school%20size.JPG)
+
+    - Summary per school
+
+    ![scores school type](https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/Score_school%20type.JPG)
 
     - Scores by school type
 
         This scores by school by type they were not affected by not considering the ninth grade students from Thomas Higth School since the school type its independence from this specific data that we modified, but despite this we can see the change in the school performace in the average math and reading, the percentaje of passing math and reading and overall passign:
 
-    ![scores school type](https://github.com/alesandelmoral/School_District_Analysis/blob/main/Resources/Score_school%20type.JPG)
+    ![scores school type]()
 
 
 
